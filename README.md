@@ -1,16 +1,10 @@
 # todo_app
 
-A new Flutter project.
+A simple to do app using flutter and dart
 
-## Getting Started
+Screenshot:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo1648320168](https://user-images.githubusercontent.com/73167399/160252926-c0f8cb6c-4b09-4d9a-8f02-2c2d780912c4.jpeg)
+![photo1648320168 (1)](https://user-images.githubusercontent.com/73167399/160252929-1735b81e-4de2-4693-adbf-68173a806878.jpeg)
